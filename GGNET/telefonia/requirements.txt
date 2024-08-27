@@ -1,0 +1,5 @@
+requests
+configparser
+tabulate
+InquirerPy
+tqdm
