@@ -5,8 +5,6 @@ Este repositório contém uma coleção de projetos desenvolvidos para diversas 
 ## Projetos
 
 - [PROJETO AUTOMAÇÃO TELEFONIA](./GGNET/telefonia)
-- [Projeto 2](#projeto-2)
-- [Projeto 3](#projeto-3)
 
 ## Detalhes dos Projetos
 
@@ -17,11 +15,3 @@ O código foi desenvolvido para automatizar a configuração de telefones Grands
 Uma vez autenticado, o código permite fazer o upload de um arquivo de configuração personalizado para cada telefone. Esse arquivo é gerado com base em um padrão definido no arquivo `.ini`, que inclui informações como o ramal, domínio, e uma senha específica para cada dispositivo. O processo é interativo, permitindo ao usuário decidir se deseja aplicar a configuração em cada telefone identificado.
 
 Além disso, o código utiliza logs para registrar todas as ações realizadas, incluindo tentativas de login e uploads de configurações, facilitando o monitoramento e a resolução de problemas. Essa ferramenta é fundamental para gerenciar grandes quantidades de telefones IP, garantindo que todos sejam configurados de maneira consistente e eficiente.
-
-### Projeto 2
-
-*Descrição breve do projeto 2.*
-
-### Projeto 3
-
-*Descrição breve do projeto 3.*
