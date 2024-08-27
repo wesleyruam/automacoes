@@ -1,10 +1,10 @@
-# Meus Projetos
+# Projetos
 
 Este repositório contém uma coleção de projetos desenvolvidos para diversas finalidades. Cada projeto está listado abaixo com uma breve descrição e um link para o repositório correspondente.
 
 ## Projetos
 
-- [PROJETO AUTOMAÇÃO TELEFONIA](#GGNET/telefonia/)
+- [PROJETO AUTOMAÇÃO TELEFONIA](./GGNET/telefonia)
 - [Projeto 2](#projeto-2)
 - [Projeto 3](#projeto-3)
 
